@@ -2,11 +2,21 @@
 
 ## Investigadores
 
-Los investigadores son personas con una gran trayectoria en su campo de investigación, dirigen proyectos, forman recursos humanos, divulgan y transfieren conocimento.
+Los investigadores poseen una gran trayectoria en su campo de investigación, dirigen proyectos, forman recursos humanos, divulgan y transfieren conocimento.
 
 ### Clasificación
 
-Los investigadores están clasificados por la entidad que financia su carrera como investigador y por su dedicación a la docencia.
+| Orden | Fuente                                           | Comentario |
+| ----- | ------------------------------------------------ | ---------- |
+| 1     | Dedicacion Excl o semi                           |            |
+| 2     | CONICET - CNEA                                   |            |
+| 3     | Categoria I, II o III                            |            |
+| 4     | Publicaciones con referato                       |            |
+| 5     | Formación de Becarios doc, posdoc o investigador |            |
+| 6     | Director de Proyecto I+D                         |            |
+| 7     | Ramón lo dijo                                    |            |
+
+Los investigadores están clasificados por la entidad que financia su carrera como investigador, por su dedicación a la docencia o su categoria en el programa de incentivo docente.
 
 ![Diagrama Investigadores](./diagramaInvestigadores.png)
 
