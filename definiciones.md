@@ -6,15 +6,14 @@ Los investigadores poseen una gran trayectoria en su campo de investigación, di
 
 ### Clasificación
 
-| Orden | Fuente                                           | Comentario |
-| ----- | ------------------------------------------------ | ---------- |
-| 1     | Dedicacion Excl o semi                           |            |
-| 2     | CONICET - CNEA                                   |            |
-| 3     | Categoria I, II o III                            |            |
-| 4     | Publicaciones con referato                       |            |
-| 5     | Formación de Becarios doc, posdoc o investigador |            |
-| 6     | Director de Proyecto I+D                         |            |
-| 7     | Ramón lo dijo                                    |            |
+| Orden | Dato                                             |
+| ----- | ------------------------------------------------ |
+| 1     | CONICET                                          |
+| 2     | Dedicacion excl o semi                           |
+| 3     | Categoria I, II o III                            |
+| 4     | Director de Proyecto I+D                         |
+| 5     | Formación de Becarios doc, posdoc o investigador |
+| 6     | Publicaciones con referato                       |
 
 Los investigadores están clasificados por la entidad que financia su carrera como investigador, por su dedicación a la docencia o su categoria en el programa de incentivo docente.
 
