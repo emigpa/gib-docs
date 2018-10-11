@@ -6,9 +6,9 @@
 | Categorización del programa de incentivo docente | Comisión metropolitana     | Mayo de 2018             |
 | Carrera de investigador en CONICET               | CONICET                    | Mayo de 2018             |
 | Personal de apoyo CONICET                        | CONICET                    | Mayo de 2018             |
-| Beca CONICET                                     | CONICET                    | Mayo de 2018             |
-| Beca UNSAM                                       | Vicerrectorado             | Mayo de 2018             |
-| Beca ANPCYT                                      | Vicerrectorado             | Mayo de 2018             |
+| Becas CONICET                                    | CONICET                    | Mayo de 2018             |
+| Becas UNSAM                                      | Vicerrectorado             | Octubre de 2018          |
+| Becas ANPCYT                                     | Vicerrectorado             | Octubre de 2018          |
 | Publicaciones científicas                        | SIGEVA-UNSAM               | Actualización automática |
 | Publicaciones en SCOPUS                          | SCOPUS                     | Mayo de 2018             |
 | Datos personales                                 | SIGEVA-UNSAM               | Actualización automática |
