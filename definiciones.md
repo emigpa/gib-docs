@@ -18,18 +18,9 @@ Para considerarlos tales deben cumplir con algunas de las condiciones necesarias
 - Dirigir un proyecto de I+D acreditao por una institución nacional o interancional.
 - Formar RRHH en investigación
 
-### Clasificación
-
-| Orden | Dato                                             |
-| ----- | ------------------------------------------------ |
-| 1     | CONICET                                          |
-| 2     | Dedicacion excl o semi                           |
-| 3     | Categoria I, II o III                            |
-| 4     | Director de Proyecto I+D                         |
-| 5     | Formación de Becarios doc, posdoc o investigador |
-| 6     | Publicaciones con referato                       |
-
-Los investigadores están clasificados por la entidad que financia su carrera como investigador, por su dedicación a la docencia o su categoria en el programa de incentivo docente.
+::: tip ACLARACIÓN
+Una persona es considerada investigadora sí y solo sí cumple por lo menos con alguna condición primario y por lo menos alguna condición secundaria.
+:::
 
 ![Diagrama Investigadores](./diagramaInvestigadores.png)
 
