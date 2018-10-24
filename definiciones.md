@@ -2,7 +2,21 @@
 
 ## Investigadores
 
-Los investigadores poseen una gran trayectoria en su campo de investigación, dirigen proyectos, forman recursos humanos, divulgan y transfieren conocimento.
+Los investigadores poseen una gran trayectoria en su campo de investigación, dirigen proyectos, forman recursos humanos, producen, divulgan y transfieren conocimento.
+Para considerarlos tales deben cumplir con algunas de las condiciones necesarias dispuestas en dos grupos:
+
+**CONDICIONES PRIMARIAS** (cumplir una de estas condiciones es obligatorio)
+
+- Poseen una dedicación exclusiva, semiexclusiva o bien dos dedicaciones simples dentro de la misma unidad académica.
+- Poseen un cargo CONICET con lugar de trabajo en nuestra universidad.
+- Poseen un cargo en CONICET y además tienen una dedicación exclusiva o semiexclusiva en nuestra universidad. Son los denominados investigadores CONICET-UNSAM.
+
+:arrow_right:**CONDICIONES SECUNDARIAS** (cumplir una de estas condiciones es obligatorio)
+
+- Poseer categoría I, II o III del Programa de Incentivos a docentes investigadores
+- Acreditar producción en investigación, (articulos con referato en revistas internacionales)en los últimos tres años.
+- Dirigir un proyecto de I+D acreditao por una institución nacional o interancional.
+- Formar RRHH en investigación
 
 ### Clasificación
 
