@@ -5,28 +5,36 @@
 Los investigadores poseen una gran trayectoria en su campo de investigación, dirigen proyectos, forman recursos humanos, producen, divulgan y transfieren conocimento.
 Para considerarlos tales deben cumplir con algunas de las condiciones necesarias dispuestas en dos grupos:
 
-**CONDICIONES PRIMARIAS** (cumplir una de estas condiciones es obligatorio)
+![Diagrama Investigadores UNSAM](./diagramaInvestigadoresUNSAM.png)
 
-- Poseen una dedicación exclusiva, semiexclusiva o bien dos dedicaciones simples dentro de la misma unidad académica.
-- Poseen un cargo CONICET con lugar de trabajo en nuestra universidad.
-- Poseen un cargo en CONICET y además tienen una dedicación exclusiva o semiexclusiva en nuestra universidad. Son los denominados investigadores CONICET-UNSAM.
+- PLENO: Dedicación Exclusiva o Semiexclusiva.
+- CONICET: Carrera CONICET con lugar de trabajo en UNSAM, si tienen dedicacion exclusiva o semiexclusiva son UNSAM-CONICET.
+- ASOCIADO: No tiene cargo docente en UNSAM que denote dedicación a la investigación.
+- CATEGORIZADO: tiene categoria 1, 2 o 3 del Programa de Incentivos.
+- SIMPLE: tiene dedicacion simple, es docente.
+- CNEA: Cargo en CNEA.
 
-:arrow_right:**CONDICIONES SECUNDARIAS** (cumplir una de estas condiciones es obligatorio)
+### CONDICIONES PRIMARIAS
 
-- Poseer categoría I, II o III del Programa de Incentivos a docentes investigadores
-- Acreditar producción en investigación, (articulos con referato en revistas internacionales)en los últimos tres años.
-- Dirigir un proyecto de I+D acreditao por una institución nacional o interancional.
-- Formar RRHH en investigación
+1. Poseen una dedicación exclusiva, semiexclusiva o dos dedicaciones simples dentro de la misma unidad académica.
+2. Poseen un cargo CONICET con lugar de trabajo en UNSAM.
 
-::: tip ACLARACIÓN
-Una persona es considerada investigadora sí y solo sí cumple por lo menos con alguna condición primario y por lo menos alguna condición secundaria.
+### CONDICIONES SECUNDARIAS
+
+1. Poseer categoría I, II o III del Programa de Incentivos a docentes investigadores
+2. Formar RRHH en investigación
+3. Dirigir un proyecto de I+D acreditado por una institución nacional o interancional.
+4. Acreditar producción en investigación, (articulos con referato en revistas internacionales)en los últimos tres años.
+
+::: tip Aclaración
+Una persona es considerada investigadora sí y solo sí por lo menos cumple con una condición primaria y una condición secundaria.
 :::
 
 ![Diagrama Investigadores](./diagramaInvestigadores.png)
 
-- UNSAM: investigador con dedicación semi-exclusiva o exclusiva en docencia.
-- CONICET: investigador de carrera CONICET con cargo de dedicación simple en docencia o sin cargo docente.
-- CONICET-UNSAM: investigador de carrera CONICET con dedicación semi-exclusiva o exclusiva en docencia.
+- INVESTIGADOR UNSAM: investigador con dedicación semi-exclusiva o exclusiva en docencia. Cumple con la condicion primaria #1.
+- INVESTIGADOR UNSAM-CONICET: investigador de carrera CONICET con dedicación semi-exclusiva o exclusiva en docencia. Cumple con la condicion primaria #1 y #2.
+- INVESTIGADOR CONICET: investigador de carrera CONICET con cargo de dedicación simple en docencia o sin cargo docente. Cumple con la condicion primaria #2.
 
 ## Becarios (Estudiantes de posgrado)
 
