@@ -1,6 +1,7 @@
 module.exports = {
-  title: 'GIB docs',
+  title: `GRI\+D`,
   port: '9001',
+  host: '0.0.0.0',
   base: '/gib-docs/',
   dest: 'docs',
   head: [
@@ -19,8 +20,8 @@ module.exports = {
       ['/fuentes', 'Fuentes de datos']
     ],
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Github', link: 'https://github.com/emigpa' }
+      // { text: 'Home', link: '/' },
+      // { text: 'Github', link: 'https://github.com/emigpa' }
     ]
   },
   markdown: {
