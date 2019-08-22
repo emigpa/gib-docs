@@ -2,9 +2,11 @@
 
 ## Investigadores
 
-<!-- ![Diagrama Investigadores UNSAM](./diagramaInvestigadoresUNSAM.png) -->
-
+::: tip Clasificación
 El personal es clasificado como **INVESTIGADOR** cuando satisface los criterios de mérito y es contratado para desarrollar su actividad en el ámbito de la UNSAM.
+:::
+
+![Diagrama Investigadores UNSAM](./InvestigadoresClasificacion.png)
 
 ### Criterios de mérito
 
@@ -23,14 +25,9 @@ El personal es clasificado como **INVESTIGADOR** cuando satisface los criterios 
 - Carrera CIC con lugar de trabajo en UNSAM.
 - Categoría I, II o III en el programa de Incentivo Docente.
 
-### Clasificación
+### Indicadores
 
 Los investigadores puede clasificarse de acuerdo a indicadores que respondan a diversos fines. Sin embargo existen dos indicadores que por su utilidad podrían considerarse mas significativos.
-
-#### _por dedicación a I+D_
-
-- JORNADA COMPLETA: dedica mas de 30 horas semanales a la actividad I+D.
-- JORNADA PARCIAL: dedica hasta 30 horas semanales a la actividad I+D. A su vez se subdivide en dos grupos: menos de 4 horas semanales y entre 4 y 30 horas semanales.
 
 #### _por contratación_
 
@@ -39,7 +36,12 @@ Los investigadores puede clasificarse de acuerdo a indicadores que respondan a d
 - UNSAM-CONICET: Carrera de investigador CONICET con lugar de trabajo en UNSAM, tienen dedicación docente exclusiva o semiexclusiva.
 - ASOCIADO: Es reconocido como investigador por la Unidad Académica en condición ad-honorem.
 
-<!-- ![Diagrama Investigadores](./diagramaInvestigadores.svg) -->
+#### _por dedicación a I+D_
+
+- JORNADA COMPLETA: dedica mas de 30 horas semanales a la actividad I+D.
+- JORNADA PARCIAL: dedica hasta 30 horas semanales a la actividad I+D. A su vez se subdivide en dos grupos: menos de 4 horas semanales y entre 4 y 30 horas semanales.
+
+![Diagrama Investigadores](./InvestigadoresIndicadores.png)
 
 ## Becarios
 
