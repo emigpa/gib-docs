@@ -3,7 +3,7 @@
 | Dato                                             | Fuente                            | Fecha de actualización   |
 | ------------------------------------------------ | --------------------------------- | ------------------------ |
 | Cargo docente                                    | Secretaria Administrativa y legal | Julio de 2019            |
-| Carrera de investigador en CONICET               | CONICET                           | Mayo de 2019             |
+| Carrera de investigador CONICET                  | CONICET                           | Mayo de 2019             |
 | Personal de apoyo CONICET                        | CONICET                           | Mayo de 2019             |
 | Becas CONICET                                    | CONICET                           | Mayo de 2019             |
 | Becas UNSAM                                      | Vicerrectorado                    | Julio de 2019            |
