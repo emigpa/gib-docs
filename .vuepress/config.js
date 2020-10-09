@@ -15,9 +15,9 @@ module.exports = {
   ],
   themeConfig: {
     sidebar: [
-      ['/', 'Introduccion'],
-      ['/definiciones', 'Definiciones'],
-      ['/fuentes', 'Fuentes de datos']
+      // ['/', 'Introduccion'],
+      ['/', 'Definiciones']
+      // ['/fuentes', 'Fuentes de datos']
     ],
     nav: [
       // { text: 'Home', link: '/' },
