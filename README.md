@@ -13,8 +13,8 @@ El personal es clasificado como **INVESTIGADOR** es contratado para desarrollar 
 #### _Debe contar con al menos un cargo que implique pertenencia a la UNSAM:_
 
 - Cargo docente UNSAM: dedicación exclusiva, semiexclusiva, dos cargos simples o contrato equivalente como investigador en la misma unidad académica.
-- Carrera el Conicet con lugar de trabajo en UNSAM.
-- Carrera CIC con lugar de trabajo en UNSAM.
+- Carrera el Conicet con lugar de trabajo en la UNSAM.
+- Carrera CIC con lugar de trabajo en la UNSAM.
 
 #### _Y cumplir con al menos una condición de mérito._
 
@@ -33,8 +33,8 @@ Los investigadores puede clasificarse de acuerdo a indicadores que respondan a d
 #### _por contratación_
 
 - UNIVERSITARIO: Tiene dedicación docente exclusiva, semi-exclusiva, dos cargos simples o contrato equivalente como investigador en la misma unidad académica.
-- CONICET: Carrera de investigador el CONICET con lugar de trabajo en UNSAM, puede tener hasta una dedicación docente simple.
-- UNSAM-CONICET: Carrera de investigador el CONICET con lugar de trabajo en UNSAM, tienen dedicación docente exclusiva o semiexclusiva.
+- CONICET: Carrera de investigador el CONICET con lugar de trabajo en la UNSAM, puede tener hasta una dedicación docente simple.
+- UNSAM-CONICET: Carrera de investigador el CONICET con lugar de trabajo en la UNSAM, tienen dedicación docente exclusiva o semiexclusiva.
 - ASOCIADO: Es reconocido como investigador por la unidad académica en condición ad-honorem.
 
 #### _por dedicación a la I+D_
@@ -64,7 +64,7 @@ Los becarios están clasificados según la entidad que financia su beca.
 
 - TÉCNICO: es la persona cuyo trabajo requiere conocimiento y experiencia de naturaleza técnica en uno o en varios campos del saber. Ejecutan sus tareas bajo la supervisión del investigador. En general corresponde a: asistentes de laboratorio, dibujantes, asistentes de ingenieros, fotógrafos, técnicos mecánicos y eléctricos, programadores, etc. Esta categoría incluye a estudiantes universitarios no graduados que realizan actividades de I+D.
 - ADMINISTRATIVO: es la persona que colabora en servicios de apoyo a las actividades de investigación y desarrollo (I+D), tales como personal de oficina, administrativos, operarios, etc. Esta categoría incluye a gerentes y administradores que se ocupan de problemas financieros, de personal, etc., siempre que sus actividades se relacionen con CyT.
-- CPA-CONICET: personal de apoyo CONICET.
+- CPA-CONICET: personal de apoyo el CONICET.
 
 ## Docentes
 
