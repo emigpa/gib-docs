@@ -12,7 +12,7 @@ El personal es clasificado como **INVESTIGADOR** es contratado para desarrollar 
 
 #### _Debe contar con al menos un cargo que implique pertenencia a la UNSAM:_
 
-- Cargo docente UNSAM: dedicación exclusiva, semiexclusiva, simple o contrato equivalente como investigador en la misma unidad académica.
+- Cargo docente UNSAM: dedicación exclusiva, semiexclusiva, simple o contrato equivalente como investigador.
 - Carrera el Conicet con lugar de trabajo en la UNSAM.
 - Carrera CIC con lugar de trabajo en la UNSAM.
 
@@ -25,6 +25,10 @@ El personal es clasificado como **INVESTIGADOR** es contratado para desarrollar 
 - Publicar al menos 1 capítulo de libro en el último quinquenio.
 - Publicar al menos 1 trabajo en evento en el último quinquenio.
 - Haber iniciado un trámite de registro de patente en el útlimo quinquenio.
+
+### ACLARACIÓN para los docentes simples
+
+- Para el caso de docentes con dedicación simple sólo se consideran investigadores si son miembros de un proyecto acreditado en la UNSAM.
 
 ### Clasificación de investigadores para indicadores
 
