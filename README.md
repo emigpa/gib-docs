@@ -26,9 +26,9 @@ El personal es clasificado como **INVESTIGADOR** es contratado para desarrollar 
 - Publicar al menos 1 trabajo en evento en el último quinquenio.
 - Haber iniciado un trámite de registro de patente en el útlimo quinquenio.
 
-### ACLARACIÓN para los docentes simples
+### ACLARACIÓN para los docentes de dedicación simples
 
-- Para el caso de docentes con dedicación simple sólo se consideran investigadores si son miembros de un proyecto acreditado en la UNSAM.
+- Para el caso de docentes con dedicación simple sólo se consideran investigadores si son miembros de un proyecto acreditado en la UNSAM sin importar que otra condicion de mérito cumplan.
 
 ### Clasificación de investigadores para indicadores
 
