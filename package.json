@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/emigpa/sesuda-docs#readme",
   "devDependencies": {
-    "vuepress": "^0.14.2"
+    "vuepress": "^1.9.7"
   },
   "dependencies": {
     "markdown-it-katex": "^2.0.3"
