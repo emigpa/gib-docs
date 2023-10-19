@@ -29,7 +29,6 @@ El personal es clasificado como **INVESTIGADOR** es contratado para desarrollar 
 ### ACLARACIÓN para los docentes de dedicación simples
 
 - Para el caso de docentes con dedicación simple sólo se consideran investigadores si son miembros de un proyecto acreditado en la UNSAM sin importar que otra condicion de mérito cumplan.
-- La vigencia de los proyectos se establece hasta cinco años de la fecha de inicio. Esto es para subsanar las demoras de la evaluación.
 
 ### Clasificación de investigadores para indicadores
 
